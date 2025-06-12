@@ -1,2 +1,2 @@
 # MockO
-Mock IPA and Mach-O files, with source code
+Mock IPA and Mach-O files, with source code.
